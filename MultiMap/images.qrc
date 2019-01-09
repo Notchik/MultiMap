@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>Source/Brest.bmp</file>
+        <file>Source/Gomel.bmp</file>
+        <file>Source/Grodno.bmp</file>
+        <file>Source/Minsk.bmp</file>
+        <file>Source/Mogilev.bmp</file>
+        <file>Source/Vitebsk.bmp</file>
+        <file>Source/WindowIcon.png</file>
+        <file>Source/list.png</file>
+        <file>Source/Marker.png</file>
+    </qresource>
+</RCC>
